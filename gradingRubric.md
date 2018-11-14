@@ -24,3 +24,5 @@
 		* Site is intuitive to use and navigate (4 points)
 		* Site is visually appealing (1 point)
 2. **Creative Portion (10 Points)**
+
+**Approved by Nikash Taskar**
