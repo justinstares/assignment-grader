@@ -5,7 +5,7 @@
 		* Website developed using Bottle (10 points)
 		* All information stored in MongoDB database (10 points)
 	* ***User Management (10 Points):***
-		* Students can register and enroll in classes (5 points)
+		* Students can register (5 points)
 		* Teachers can register and add classes to class list (5 points)
 	* ***Assignment Management (15 Points):***
 		* Students can upload assignments to classes (5 points)
