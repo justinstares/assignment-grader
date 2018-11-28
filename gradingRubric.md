@@ -19,7 +19,7 @@
 		* Teachers can only grade assignments submitted to their own classes (5 points)
 	* ***Best Practices (5 Points):***
 		* Code is well formatted and easy to read, with proper commenting (2 points)
-		* CSRF tokens are passed when teachers submit graded assignments (3 points)
+		* Students can't see teacher's pages and vice-versa (3 points)
 	* ***Usability (5 Points):***
 		* Site is intuitive to use and navigate (4 points)
 		* Site is visually appealing (1 point)
